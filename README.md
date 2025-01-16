@@ -1,9 +1,9 @@
-# Tailscale Status
+# Thatwebsite Status
 
-This repository contains the [Tailscale status page][status], based on the
+This repository contains the [Thatwebsite status page][status], based on the
 [issue-status][is] project.
 
-[status]: https://status.tailscale.com/
+[status]: https://status.thatwebsite.com/
 [is]: https://github.com/tadhglewis/issue-status
 
 ## Usage Instructions
@@ -32,4 +32,4 @@ shown on the status page; Markdown is supported.
 Close the associated GitHub Issue in order to change an incident's status on
 the status page to closed.
 
-[ni]: https://github.com/tailscale/issue-status/issues/new
+[ni]: https://github.com/that-awesome-organization/issue-status/issues/new
